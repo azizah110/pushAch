@@ -1,7 +1,6 @@
 
 //  ContentView.swift
 //  test
-//
 //  Created by azizah ahmed alshami on 25/05/1444 AH.
 //
 
