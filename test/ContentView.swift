@@ -1,7 +1,13 @@
+<<<<<<< HEAD
 //
 //  ContentView.swift
 //  test
 //
+=======
+
+//  ContentView.swift
+//  test
+>>>>>>> 8b27d9613ee54b62a15f414a96bb0df79c12e482
 //  Created by azizah ahmed alshami on 25/05/1444 AH.
 //
 
